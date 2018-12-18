@@ -434,6 +434,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = F31F7A04F1A0BF75611CBADA /* Pods-DropdownTitleView.debug.xcconfig */;
 			buildSettings = {
+				APPLICATION_EXTENSION_API_ONLY = YES;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "";
 				CODE_SIGN_STYLE = Manual;
@@ -464,6 +465,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 67B1BC4D4766CDC3B2BD8696 /* Pods-DropdownTitleView.release.xcconfig */;
 			buildSettings = {
+				APPLICATION_EXTENSION_API_ONLY = YES;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "";
 				CODE_SIGN_STYLE = Manual;
